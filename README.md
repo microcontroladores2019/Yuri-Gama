@@ -24,7 +24,7 @@ Funções finais:
 Hardware a ser utilizado:
 - Placa STM32F407;
 
-
+![STM32F407](https://user-images.githubusercontent.com/37374766/59775134-085c0780-9287-11e9-91da-35ec968c1d77.jpg)
 
 - Display TFT SPI 2";
 - Encoder-Decoder KY-040;
