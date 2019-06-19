@@ -33,7 +33,7 @@ Hardware a ser utilizado:
 
 ![ST-LinkV2](https://user-images.githubusercontent.com/37374766/59639155-bb661d00-9130-11e9-893d-06e34e660bf2.JPG)
 
->__Diagrama de blocos da Eletrônica (Funcionamento do DNR)__
+>__Diagrama de Blocos do DNR__
 
 ![Diagrama_Blocos_DNR](https://user-images.githubusercontent.com/37374766/59629492-581cc080-9119-11e9-888f-9a164f1cd51c.jpg)
 
