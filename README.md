@@ -29,9 +29,9 @@ Hardware a ser utilizado:
 - Display TFT SPI 2";
 - Encoder-Decoder KY-040;
 - Módulo mínimo de áudio;
-- ST-Link V2 (conforme tabela de pinagem).
+- Mini ST-Link V2 (conforme tabela de pinagem).
 
-![ST-LinkV2](https://user-images.githubusercontent.com/37374766/59639155-bb661d00-9130-11e9-893d-06e34e660bf2.JPG)
+
 
 >__Diagrama de Blocos do DNR__
 
