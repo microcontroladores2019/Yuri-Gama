@@ -31,7 +31,7 @@ Hardware a ser utilizado:
 - Módulo mínimo de áudio;
 - Mini ST-Link V2 (conforme tabela de pinagem).
 
-
+![STLinkV2](https://user-images.githubusercontent.com/37374766/59775575-d4351680-9287-11e9-9356-7c9c33d1da1c.jpg)
 
 >__Diagrama de Blocos do DNR__
 
